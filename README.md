@@ -1,2 +1,1 @@
-# my-recipe
-this is for a whitehat project
+this is the recipe instructions for a cake. this cake does not require oven and can be made in a cooker. it is also eggless and very easy to make i hapoe you like this recipe.
